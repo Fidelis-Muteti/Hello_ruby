@@ -1,0 +1,19 @@
+# Bundler / vendor
+/vendor/bundle
+.bundle
+
+# temp / logs
+/tmp
+/log
+*.log
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# dotenv
+.env
+
+# Ruby
+*.gem
